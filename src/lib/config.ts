@@ -1,7 +1,8 @@
 /* eslint-disable @typescript-eslint/no-explicit-any, no-console, @typescript-eslint/no-non-null-assertion */
 
+import { getStorage } from '@/lib/db';
+
 import { AdminConfig } from './admin.types';
-import { getStorage } from './db';
 import runtimeConfig from './runtime';
 
 export interface ApiSite {
