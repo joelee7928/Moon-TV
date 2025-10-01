@@ -137,7 +137,7 @@
     "thzy": {
       "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
       "name": "桃花资源",
-    },
+    }
     "fqzy": {
       "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
       "name": "番茄资源",
